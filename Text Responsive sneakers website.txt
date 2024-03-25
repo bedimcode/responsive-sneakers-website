@@ -1,0 +1,29 @@
+========== HEADER ==========
+.nav__logo
+Sneakers
+
+.nav__link
+Home - About Us - New - Collection - Contact
+
+.nav__social-link
+https://www.facebook.com/
+https://www.instagram.com/
+https://twitter.com/
+
+
+========== HOME ==========
+.home__subtitle
+NEW IN
+
+.home__title
+Yeezy Boost <br> 350 V2 Clay
+Hyperdunk X <br> TB Urban Red
+Air Mag <br> 3000 X1 Future 
+
+.home__button
+Buy Now
+
+.home__social-link
+https://www.facebook.com/
+https://www.instagram.com/
+https://twitter.com/
